@@ -4,6 +4,7 @@
 <th>Establecimiento comercial 2</th>
 <th>Establecimiento comercial 3</th> 
 <th>Establecimiento comercial 4</th> 
+</tr>
 <tr>
 <td>Restaurantes</td>
 <td>Barberia</td>
