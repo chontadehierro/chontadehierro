@@ -4,6 +4,10 @@
 <th>Establecimiento comercial 2</th>
 <th>Establecimiento comercial 3</th> 
 <th>Establecimiento comercial 4</th> 
+<th style="background-color: red">Establecimiento comercial 1</th>
+<th style="background-color: red">Establecimiento comercial 2</th>
+<th style="background-color: red">Establecimiento comercial 3</th>
+<th style="background-color: red">Establecimiento comercial 4</th>
 <tr>
 <td>Restaurantes</td>
 <td>Barberia</td>
