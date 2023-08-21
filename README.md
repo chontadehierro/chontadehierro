@@ -10,9 +10,9 @@
 <td>Supermercados</td>    
 <td>Cafeterias</td>
 <tr>
-<td>Brinda comidas y bebidas</td>
-<td>Brinda cortes de pelo</td>
-<td>Brinda alimentos y articulos</td>    
-<td>Brinda cafe y postres</td>
+<td>brinda comidas y bebidas</td>
+<td>brinda cortes de pelo</td>
+<td>brinda alimentos y articulos</td>    
+<td>brinda cafe y postres</td>
 </tr>
 </table>
